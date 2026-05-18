@@ -1,0 +1,19 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+
+# IDE / local tooling
+.idea/
+.vscode/
+.sixth/
+
+# Platform / caches
+*.log
+*.tmp
+
+# Local assets scratchpad
+assets/images/TMP/
